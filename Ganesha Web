@@ -1,0 +1,102 @@
+<!DOCTYPE.HTML >
+<head>
+      <link rel="stylesheet" type="text/css" href= "C:\Users\ssamm\Desktop\Jai-Ganesha.css" media="screen" />
+
+
+<title> Ganesha site </title>
+
+
+
+
+
+</head>
+<body>
+     <!--<img src= "https://upload.wikimedia.org/wikipedia/commons/3/36/Large_bonfire.jpg" class="img1" alt= "Fire" width="500" height="459"-->
+
+
+
+
+
+
+
+  <h1><font size="20"> Siva, god of creation and distruction </font></h1>    
+    
+<div class="container-fluid">
+  <h3 class="text-primary text-center">jQuery Playground</h3>
+  <div class="row">
+    <div class="col-xs-6">
+      <h4>  </h4>
+      <div class="well" id="left-well">
+        <button class="btn btn-default target" id="target1">#target1</button>
+        <button class="btn btn-default target" id="target2">#target2</button>
+        <button class="btn btn-default target" id="target3">#target3</button>
+      </div>
+    </div>
+    <div class="col-xs-6">
+      <h4>  </h4>
+      <div class="well" id="right-well">
+        <button class="btn btn-default target" id="target4">#target4</button>
+        <button class="btn btn-default target" id="target5">#target5</button>
+        <button class="btn btn-default target" id="target6">#target6</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  <nav>
+    <ul>
+   <li> <a href= "http://www.google.com">  <button>  Box   </button>   </a> </li>      
+   <li>   <a href="http://www.youtube.com" class="hover" ><button class="btn btn-block primary" id="target1"> <i class= ""></i>Box</button> </a>  </li>                                                                                
+    <ul>
+  </nav>   
+   <a href= "http://www.youtube.com"> <img src= "https://upload.wikimedia.org/wikipedia/commons/3/36/Large_bonfire.jpg" alt= "Fire" width="500" height="459" </a>       
+
+</div>
+
+<script> 
+
+</script>
+
+<style> 
+
+body {
+  background-image: url ("https://upload.wikimedia.org/wikipedia/commons/3/36/Large_bonfire.jpg");        
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1 {
+color: red;
+margin:200px;
+}
+
+
+
+</style>
+
+
+
+</body>
+</html>
